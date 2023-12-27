@@ -1,5 +1,13 @@
 # GitHub User Search App
 
+<h1 align="center"><b>
+
+![github](https://github.com/thebarunkumar/GitHub-Search/assets/77458180/c3f83693-e557-4cc8-a71f-fe6c552ecb6d)
+
+
+</b></h1>
+
+
 The GitHub User Search App is a web application built using React, Redux, JavaScript, Rest API, and CSS. It provides a user-friendly interface for searching and exploring GitHub users and their profiles. Whether you're looking for specific developers or just curious about who's active on GitHub, this app is your ideal companion.
 
 ## Key Features
